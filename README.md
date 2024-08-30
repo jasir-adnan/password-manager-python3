@@ -1,2 +1,2 @@
 # password-manager-python3
-![logo](https://github.com/user-attachments/assets/7492278d-a5cf-40d9-8a5a-b4dc1039ef7c)
+![Screenshot 2024-08-30 235620](https://github.com/user-attachments/assets/fecad753-b2b4-46d3-95b7-07cbb44a2d54)
